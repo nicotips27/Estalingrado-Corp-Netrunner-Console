@@ -1,0 +1,9 @@
+﻿CyberEngineTweaks/
+build/
+xmake.stamp
+.stamp
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
